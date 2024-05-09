@@ -1,17 +1,17 @@
-### Hey, Luiz here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+### Olá, Meu nome é Julio Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-#### :round_pushpin: I'm a frontend developer working from Brazil
+#### :round_pushpin: Sou estudante de Desenvolvimento Front-End
 
-#### Currently involved with
+<!--#### Currently involved with
 
-- :briefcase: Frontend at [EQI Investimentos](https://br.linkedin.com/company/eqi-investimentos)
-- :telescope: Open source contributions
+ - :briefcase: Frontend at
+- :telescope: Open source contributions -->
 
-#### About me
+#### Sobre Mim
 
-- :wrench: I've a bachelor's degree in mechanical engineering
-- :seedling: I've started as a full-stack developer
-- :sparkles: In my free-time, I love to play video games and to travel
+- :wrench: Estou Cursando Engenharia de Software (2º Semestre)
+- :seedling: I'Estou em busca da primeira oportunidade na área de TI
+- :sparkles: No meu tempo livre adoro ver futebol e ficar com minha Familia
 
 #### Some languages and technologies I've already used
 
