@@ -10,8 +10,8 @@
 #### Sobre Mim
 
 - :computer: Estou Cursando Engenharia de Software (2º Semestre)
-- :seedling: I'Estou em busca da primeira oportunidade na área de TI
-- :sparkles: No meu tempo livre adoro ver futebol e ficar com minha Familia
+- :star: I'Estou em busca da primeira oportunidade na área de TI
+- :car: No meu tempo livre adoro ver futebol e ficar com minha Familia
 
 #### Some languages and technologies I've already used
 
