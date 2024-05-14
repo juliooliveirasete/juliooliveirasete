@@ -10,7 +10,7 @@
 #### Sobre Mim
 
 - :computer: Estou Cursando Engenharia de Software (2º Semestre)
-- :star: I'Estou em busca da primeira oportunidade na área de TI
+- :star: Estou em busca da primeira oportunidade na área de TI
 - :soccer: No meu tempo livre adoro ver futebol e ficar com minha Familia
 
 #### Conhecimento em:
